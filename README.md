@@ -27,7 +27,7 @@ git clone https://github.com/Skyrich2000/TENET.git
 
 ## 사운드가 안꺼질 때
 ```
-pkill afplay // afplay 프로세스를 종료시켜주세요
+pkill afplay # afplay 프로세스를 종료시켜주세요
 ```
 
 
