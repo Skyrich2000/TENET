@@ -9,5 +9,4 @@ printf "░░░██║░░░███████╗██║░╚██
 printf "░░░╚═╝░░░╚══════╝╚═╝░░╚══╝╚═══════╝╚═══════╝\n"
 printf "\n\n"
 
-
-afplay bgm.mp3 & ./so_long map.ber; pkill afplay
+bash src/play.sh &
