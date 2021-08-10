@@ -1,4 +1,4 @@
-afplay bgm.mp3 &
+afplay -v 0.3 bgm.mp3 &
 ./so_long map.ber > /dev/null 2>&1  &
 
 wait ${!}
