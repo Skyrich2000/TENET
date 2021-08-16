@@ -9,4 +9,4 @@ printf "░░░██║░░░███████╗██║░╚██
 printf "░░░╚═╝░░░╚══════╝╚═╝░░╚══╝╚═══════╝╚═══════╝\n"
 printf "\n\n"
 
-bash src/play.sh &
+bash bin/play &
