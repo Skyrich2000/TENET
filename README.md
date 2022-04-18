@@ -34,4 +34,8 @@ git clone https://github.com/Skyrich2000/TENET.git
 pkill afplay # afplay 프로세스를 종료시켜주세요
 ```
 
+## 소스코드
+[링크](https://github.com/Skyrich2000/BornToCode/tree/master/so_long)
+
+
 
