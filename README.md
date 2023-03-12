@@ -1,8 +1,8 @@
 # TENET
 
-![./res/intro.png](./res/intro.png)
+<img src="./res/intro.png" width="500">
 
-![./res/ingame.gif](./res/ingame.gif)
+<img src="./res/ingame.gif" width="500">
 
 > 명심하세요 일어난 일은 무조건 일어납니다!
 
